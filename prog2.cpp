@@ -5,7 +5,6 @@
 #include <sstream>
 #include <unordered_map>
 #include <iomanip>
-#include "prog2.h"
 using namespace std;
 
 // custom Vertex class to hold x,y coordinates, index and Euclidean distance member function
